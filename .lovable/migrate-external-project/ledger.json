@@ -1,0 +1,100 @@
+[
+  {
+    "capability": "code",
+    "source": "GitHub modern-saas-studio",
+    "outcome": "migrate",
+    "status": "pending",
+    "next_action": "Inspect source and verify after import"
+  },
+  {
+    "capability": "schema",
+    "source": "GitHub modern-saas-studio",
+    "outcome": "migrate",
+    "status": "pending",
+    "next_action": "Inspect source and verify after import"
+  },
+  {
+    "capability": "records",
+    "source": "GitHub modern-saas-studio",
+    "outcome": "migrate",
+    "status": "pending",
+    "next_action": "Inspect source and verify after import"
+  },
+  {
+    "capability": "auth identities",
+    "source": "GitHub modern-saas-studio",
+    "outcome": "migrate",
+    "status": "pending",
+    "next_action": "Inspect source and verify after import"
+  },
+  {
+    "capability": "authorization",
+    "source": "GitHub modern-saas-studio",
+    "outcome": "preserve",
+    "status": "pending",
+    "next_action": "Inspect source and verify after import"
+  },
+  {
+    "capability": "uploaded file bytes",
+    "source": "GitHub modern-saas-studio",
+    "outcome": "preserve",
+    "status": "pending",
+    "next_action": "Inspect source and verify after import"
+  },
+  {
+    "capability": "external providers",
+    "source": "GitHub modern-saas-studio",
+    "outcome": "preserve",
+    "status": "pending",
+    "next_action": "Inspect source and verify after import"
+  },
+  {
+    "capability": "public endpoints",
+    "source": "GitHub modern-saas-studio",
+    "outcome": "preserve",
+    "status": "pending",
+    "next_action": "Inspect source and verify after import"
+  },
+  {
+    "capability": "callbacks",
+    "source": "GitHub modern-saas-studio",
+    "outcome": "preserve",
+    "status": "pending",
+    "next_action": "Inspect source and verify after import"
+  },
+  {
+    "capability": "webhooks",
+    "source": "GitHub modern-saas-studio",
+    "outcome": "preserve",
+    "status": "pending",
+    "next_action": "Inspect source and verify after import"
+  },
+  {
+    "capability": "schedules",
+    "source": "GitHub modern-saas-studio",
+    "outcome": "preserve",
+    "status": "pending",
+    "next_action": "Inspect source and verify after import"
+  },
+  {
+    "capability": "secrets",
+    "source": "GitHub modern-saas-studio",
+    "outcome": "preserve",
+    "status": "pending",
+    "next_action": "Inspect source and verify after import"
+  },
+  {
+    "capability": "cutover",
+    "source": "GitHub modern-saas-studio",
+    "outcome": "preserve",
+    "status": "pending",
+    "next_action": "Inspect source and verify after import"
+  },
+  {
+    "capability": "verification",
+    "source": "GitHub modern-saas-studio",
+    "outcome": "preserve",
+    "status": "pending",
+    "next_action": "Inspect source and verify after import"
+  }
+]

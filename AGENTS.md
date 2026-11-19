@@ -28,3 +28,9 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+## Import boundaries
+- Keep generated Cloud integrations untouched; isolate untyped archive queries in imported-database.ts until the original schema is supplied, because the source lacks DDL.
+- Keep motion and auth/onboarding layout styles in the global design system, and disable motion for reduced-motion users.
+- Preserve source commerce and provider code while marking unverified services in the migration ledger; do not invent absent schema or production rules.
+- Preserve the source compiler compatibility settings during import until schema types can be regenerated; the source ships untyped query contracts.
